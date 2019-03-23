@@ -1,0 +1,9 @@
+Stajesz do walki. Liczba przeciwnikow: 
+* Dystans wynosi: 
+* Zadales obrazen: 
+* Otrzymales obrazen: 
+Uzyj: 
+Uciekles.
+Nie udalo Ci sie uciec.
+Wygrales!
+Straciles cale HP. Zginales! Koniec gry.

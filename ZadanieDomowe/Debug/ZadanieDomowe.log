@@ -1,0 +1,23 @@
+﻿  Battle.cpp
+  Character.cpp
+  CharacterFactory.cpp
+  ConsoleUserInterface.cpp
+  Encounter.cpp
+  Equipment.cpp
+  Food.cpp
+  Game.cpp
+c:\users\paweł\desktop\jpwp-20190323t111615z-001\jpwp\zadaniedomowe\zadaniedomowe\game.cpp(309): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\paweł\desktop\jpwp-20190323t111615z-001\jpwp\zadaniedomowe\zadaniedomowe\game.cpp(362): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  Item.cpp
+  Location.cpp
+  Map.cpp
+c:\users\paweł\desktop\jpwp-20190323t111615z-001\jpwp\zadaniedomowe\zadaniedomowe\map.cpp(41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Opponent.cpp
+  Reward.cpp
+  Shop.cpp
+  Source.cpp
+  Statistics.cpp
+  UserInterface.cpp
+  Wearable.cpp
+  Generowanie kodu...
+  ZadanieDomowe.vcxproj -> C:\Users\Paweł\Desktop\JPWP-20190323T111615Z-001\JPWP\ZadanieDomowe\Debug\ZadanieDomowe.exe

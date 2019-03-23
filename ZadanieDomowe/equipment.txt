@@ -1,0 +1,5 @@
+Twoj ekwipunek jest pusty! Nie masz nic na sobie!
+* Masz na sobie te rzeczy. Co chcesz zdjac?
+ - nic nie zdejmuje
+* To znajduje sie w Twoim ekwipunku. Czego chcesz uzyc?
+ - niczego

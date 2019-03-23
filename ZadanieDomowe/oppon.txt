@@ -1,0 +1,5 @@
+Wybierz ktorego przeciwnika chcesz zaatakowac: 
+Twoje aktualne HP: 
+HP przeciwnika: 
+Zabiles tego przeciwnika.
+Wyspales sie.

@@ -1,0 +1,5 @@
+Wybierz swojego bohatera.
+Spotkales kupca. Co chcesz kupic? Twoje zloto: 
+0 - nic nie kupuje
+Znalazles przedmiot: 
+Znalazles pieczec!

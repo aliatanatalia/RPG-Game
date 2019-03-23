@@ -1,0 +1,6 @@
+Wybierz czynnosc.
+0 - atakuj wrecz
+1 - atakuj na dystans
+2 - blokuj (nie atakuj, ale otrzymaj mniejsze obrazenia)
+3 - uzyj przedmiotu (jedzenie)
+4 - sprobuj uciec
